@@ -1,0 +1,5 @@
+ref,Name,operating_hours_ref,IsActive,City,State,Country,PostalCode,Latitude,Longitude
+terrDC,District Core,hoursExt,true,Washington,DC,United States,20001,38.9072,-77.0369
+terrBAL,Baltimore Metro,hoursStd,true,Baltimore,MD,United States,21201,39.2904,-76.6122
+terrARL,Arlington and Alexandria,hoursStd,true,Arlington,VA,United States,22201,38.8816,-77.0910
+terrRIC,Richmond Region,hoursStd,false,Richmond,VA,United States,23219,37.5407,-77.4360

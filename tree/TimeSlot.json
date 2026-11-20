@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef1"
+      },
+      "OperatingHoursId": "@hoursStd",
+      "DayOfWeek": "Monday",
+      "StartTime": "08:00:00.000Z",
+      "EndTime": "17:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef2"
+      },
+      "OperatingHoursId": "@hoursStd",
+      "DayOfWeek": "Tuesday",
+      "StartTime": "08:00:00.000Z",
+      "EndTime": "17:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef3"
+      },
+      "OperatingHoursId": "@hoursStd",
+      "DayOfWeek": "Wednesday",
+      "StartTime": "08:00:00.000Z",
+      "EndTime": "17:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef4"
+      },
+      "OperatingHoursId": "@hoursStd",
+      "DayOfWeek": "Thursday",
+      "StartTime": "08:00:00.000Z",
+      "EndTime": "17:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef5"
+      },
+      "OperatingHoursId": "@hoursStd",
+      "DayOfWeek": "Friday",
+      "StartTime": "08:00:00.000Z",
+      "EndTime": "17:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef6"
+      },
+      "OperatingHoursId": "@hoursExt",
+      "DayOfWeek": "Monday",
+      "StartTime": "07:00:00.000Z",
+      "EndTime": "19:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef7"
+      },
+      "OperatingHoursId": "@hoursExt",
+      "DayOfWeek": "Tuesday",
+      "StartTime": "07:00:00.000Z",
+      "EndTime": "19:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef8"
+      },
+      "OperatingHoursId": "@hoursExt",
+      "DayOfWeek": "Wednesday",
+      "StartTime": "07:00:00.000Z",
+      "EndTime": "19:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef9"
+      },
+      "OperatingHoursId": "@hoursExt",
+      "DayOfWeek": "Thursday",
+      "StartTime": "07:00:00.000Z",
+      "EndTime": "19:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef10"
+      },
+      "OperatingHoursId": "@hoursExt",
+      "DayOfWeek": "Friday",
+      "StartTime": "07:00:00.000Z",
+      "EndTime": "19:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef11"
+      },
+      "OperatingHoursId": "@hoursWknd",
+      "DayOfWeek": "Saturday",
+      "StartTime": "09:00:00.000Z",
+      "EndTime": "15:00:00.000Z",
+      "Type": "Normal"
+    },
+    {
+      "attributes": {
+        "type": "TimeSlot",
+        "referenceId": "TimeSlotRef12"
+      },
+      "OperatingHoursId": "@hoursWknd",
+      "DayOfWeek": "Sunday",
+      "StartTime": "09:00:00.000Z",
+      "EndTime": "15:00:00.000Z",
+      "Type": "Normal"
+    }
+  ]
+}

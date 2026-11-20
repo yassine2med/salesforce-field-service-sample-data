@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "ServiceTerritory",
+        "referenceId": "terrDC"
+      },
+      "Name": "District Core",
+      "OperatingHoursId": "@hoursExt",
+      "IsActive": true,
+      "City": "Washington",
+      "State": "DC",
+      "Country": "United States",
+      "PostalCode": "20001",
+      "Latitude": 38.9072,
+      "Longitude": -77.0369
+    },
+    {
+      "attributes": {
+        "type": "ServiceTerritory",
+        "referenceId": "terrBAL"
+      },
+      "Name": "Baltimore Metro",
+      "OperatingHoursId": "@hoursStd",
+      "IsActive": true,
+      "City": "Baltimore",
+      "State": "MD",
+      "Country": "United States",
+      "PostalCode": "21201",
+      "Latitude": 39.2904,
+      "Longitude": -76.6122
+    },
+    {
+      "attributes": {
+        "type": "ServiceTerritory",
+        "referenceId": "terrARL"
+      },
+      "Name": "Arlington and Alexandria",
+      "OperatingHoursId": "@hoursStd",
+      "IsActive": true,
+      "City": "Arlington",
+      "State": "VA",
+      "Country": "United States",
+      "PostalCode": "22201",
+      "Latitude": 38.8816,
+      "Longitude": -77.091
+    },
+    {
+      "attributes": {
+        "type": "ServiceTerritory",
+        "referenceId": "terrRIC"
+      },
+      "Name": "Richmond Region",
+      "OperatingHoursId": "@hoursStd",
+      "IsActive": false,
+      "City": "Richmond",
+      "State": "VA",
+      "Country": "United States",
+      "PostalCode": "23219",
+      "Latitude": 37.5407,
+      "Longitude": -77.436
+    }
+  ]
+}

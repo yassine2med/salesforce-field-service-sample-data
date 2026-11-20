@@ -1,0 +1,4 @@
+ref,Name,TimeZone
+hoursStd,Weekday Standard,America/New_York
+hoursExt,Weekday Extended,America/New_York
+hoursWknd,Weekend On-Call,America/New_York

@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "OperatingHours",
+        "referenceId": "hoursStd"
+      },
+      "Name": "Weekday Standard",
+      "TimeZone": "America/New_York"
+    },
+    {
+      "attributes": {
+        "type": "OperatingHours",
+        "referenceId": "hoursExt"
+      },
+      "Name": "Weekday Extended",
+      "TimeZone": "America/New_York"
+    },
+    {
+      "attributes": {
+        "type": "OperatingHours",
+        "referenceId": "hoursWknd"
+      },
+      "Name": "Weekend On-Call",
+      "TimeZone": "America/New_York"
+    }
+  ]
+}

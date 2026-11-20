@@ -1,0 +1,4 @@
+ref,Name,EstimatedDuration,DurationType
+w1,Inspection,0,Minutes
+w2,Overhaul,30,Hours
+w3,Check,15,Days

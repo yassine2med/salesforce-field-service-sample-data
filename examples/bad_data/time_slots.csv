@@ -1,0 +1,6 @@
+operating_hours_ref,DayOfWeek,StartTime,EndTime
+hoursA,Monday,08:00,17:00
+hoursA,Monday,16:00,18:00
+hoursA,Funday,08:00,17:00
+hoursA,Tuesday,17:00,08:00
+hoursZ,Friday,08:00,12:00

@@ -1,0 +1,6 @@
+ref,Name,EstimatedDuration,DurationType
+wtFilter,HVAC Filter Change,30,Minutes
+wtPM,Preventive Maintenance Inspection,2,Hours
+wtLeak,Plumbing Leak Repair,90,Minutes
+wtEmerg,Emergency Electrical Repair,4,Hours
+wtLamp,Lighting Replacement,45,Minutes

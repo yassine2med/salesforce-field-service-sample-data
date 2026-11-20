@@ -1,0 +1,13 @@
+operating_hours_ref,DayOfWeek,StartTime,EndTime
+hoursStd,Monday,08:00,17:00
+hoursStd,Tuesday,08:00,17:00
+hoursStd,Wednesday,08:00,17:00
+hoursStd,Thursday,08:00,17:00
+hoursStd,Friday,08:00,17:00
+hoursExt,Monday,07:00,19:00
+hoursExt,Tuesday,07:00,19:00
+hoursExt,Wednesday,07:00,19:00
+hoursExt,Thursday,07:00,19:00
+hoursExt,Friday,07:00,19:00
+hoursWknd,Saturday,09:00,15:00
+hoursWknd,Sunday,09:00,15:00

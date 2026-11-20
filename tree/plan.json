@@ -1,0 +1,34 @@
+[
+  {
+    "sobject": "OperatingHours",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": [
+      "OperatingHours.json"
+    ]
+  },
+  {
+    "sobject": "TimeSlot",
+    "saveRefs": false,
+    "resolveRefs": true,
+    "files": [
+      "TimeSlot.json"
+    ]
+  },
+  {
+    "sobject": "ServiceTerritory",
+    "saveRefs": false,
+    "resolveRefs": true,
+    "files": [
+      "ServiceTerritory.json"
+    ]
+  },
+  {
+    "sobject": "WorkType",
+    "saveRefs": false,
+    "resolveRefs": false,
+    "files": [
+      "WorkType.json"
+    ]
+  }
+]

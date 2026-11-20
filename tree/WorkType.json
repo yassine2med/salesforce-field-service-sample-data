@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "WorkType",
+        "referenceId": "wtFilter"
+      },
+      "Name": "HVAC Filter Change",
+      "EstimatedDuration": 30.0,
+      "DurationType": "Minutes"
+    },
+    {
+      "attributes": {
+        "type": "WorkType",
+        "referenceId": "wtPM"
+      },
+      "Name": "Preventive Maintenance Inspection",
+      "EstimatedDuration": 2.0,
+      "DurationType": "Hours"
+    },
+    {
+      "attributes": {
+        "type": "WorkType",
+        "referenceId": "wtLeak"
+      },
+      "Name": "Plumbing Leak Repair",
+      "EstimatedDuration": 90.0,
+      "DurationType": "Minutes"
+    },
+    {
+      "attributes": {
+        "type": "WorkType",
+        "referenceId": "wtEmerg"
+      },
+      "Name": "Emergency Electrical Repair",
+      "EstimatedDuration": 4.0,
+      "DurationType": "Hours"
+    },
+    {
+      "attributes": {
+        "type": "WorkType",
+        "referenceId": "wtLamp"
+      },
+      "Name": "Lighting Replacement",
+      "EstimatedDuration": 45.0,
+      "DurationType": "Minutes"
+    }
+  ]
+}
