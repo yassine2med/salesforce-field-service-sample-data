@@ -2,6 +2,8 @@
 
 # salesforce-field-service-sample-data
 
+[![CI](https://github.com/yassine2med/salesforce-field-service-sample-data/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/salesforce-field-service-sample-data/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Sample records for a Field Service setup, kept as four plain CSV files: operating hours, their time slots, service territories and work types. A Python tool checks the files and the links between them, then converts them into the JSON tree files and `plan.json` that `sf data import tree` reads. No org is needed to check or build.
 
 ![Screenshot](docs/screenshot.png)
